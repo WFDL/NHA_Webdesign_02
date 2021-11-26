@@ -1,0 +1,152 @@
+body
+{
+  background-color: #FFFFCC;
+  color: white;
+}
+
+
+table Blokken, tr, td
+{
+  height: 150px;
+  width: 150px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+/* Erste rij cellen */
+#Blok_1_1
+{
+    background-color: #FFCCFF;
+    color: blue;
+}
+#Blok_1_2
+{
+    background-color: #FF99FF;
+}
+#Blok_1_2 img
+{
+  max-height: 150px;
+  max-width: 150px;
+}
+#Blok_1_3
+{
+    background-color: #FF66FF;
+    color: yellow;
+}
+#Blok_1_4
+{
+    background-color: #FF00FF;
+    max-width: 150px;
+    max-height: 150px;
+}
+#Blok_1_4 img
+{
+  max-height: 150px;
+  max-width: 150px;
+}
+
+/* Tweede rij cellen */
+#Blok_2_1
+{
+    background-color: #FFCC00;
+    color: black;
+}
+#Blok_2_2
+{
+    background-color: #FF9900;
+}
+#Blok_2_2 img
+{
+  max-height: 150px;
+  max-width: 150px;
+}
+#Blok_2_3
+{
+    background-color: #FF6600;
+    color: green;
+}
+#Blok_2_4
+{
+    background-color: #FF3300;
+}
+#Blok_2_4 img
+{
+  max-height: 150px;
+  max-width: 150px;
+}
+
+/* Derde rij cellen */
+#Blok_3_1
+{
+    background-color: #66CCFF;
+    color: #FF00FF;
+}
+#Blok_3_2
+{
+    background-color: #6699FF;
+}
+#Blok_3_2 img
+{
+  max-height: 150px;
+  max-width: 150px;
+}
+#Blok_3_3
+{
+    background-color: #6666FF;
+    color: #F8F8FF)F;
+}
+#Blok_3_4
+{
+    background-color: #6633FF;
+}
+#Blok_3_4 img
+{
+  max-height: 150px;
+  max-width: 150px;
+}
+
+/* Vierde rij cellen */
+#Blok_4_1
+{
+    background-color: #00FF00;
+    color: red;
+}
+#Blok_4_2
+{
+    background-color: #00CC00;
+}
+#Blok_4_2 img
+{
+  max-height: 150px;
+  max-width: 150px;
+}
+#Blok_4_3
+{
+    background-color: #009900;
+    color: #F4A460;
+}
+#Blok_4_4
+{
+    background-color: #006600;
+}
+#Blok_4_4 img
+{
+  max-height: 150px;
+  max-width: 150px;
+}
+
+
+
+
+/*
+border-width: 1px;
+border-spacing: 2px;
+border-style: outset;
+border-color: gray;
+border-collapse: separate;
+
+border: 1px solid black;
+height: 100px;
+width: 100px;
+
+*/
